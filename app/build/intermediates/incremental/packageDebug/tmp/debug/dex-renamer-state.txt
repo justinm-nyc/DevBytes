@@ -1,0 +1,4 @@
+#Tue May 05 19:02:00 COT 2020
+base.0=C\:\\Users\\Justin\\AndroidStudioProjects\\android-kotlin-fundamentals-starter-apps\\DevBytes-starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
